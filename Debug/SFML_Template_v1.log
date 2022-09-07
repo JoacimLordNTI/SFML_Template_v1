@@ -1,0 +1,12 @@
+﻿  MainTemplate.cpp
+C:\dev\SFML_Template_v1\src\MainTemplate.cpp(16,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\dev\SFML_Template_v1\src\MainTemplate.cpp(16,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  SFML_Template_v1.vcxproj -> C:\dev\SFML_Template_v1\Debug\SFML_Template_v1.exe
